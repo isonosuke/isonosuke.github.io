@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "MitoQuest.data.unityweb",
+"asmCodeUrl": "MitoQuest.asm.code.unityweb",
+"asmMemoryUrl": "MitoQuest.asm.memory.unityweb",
+"asmFrameworkUrl": "MitoQuest.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
