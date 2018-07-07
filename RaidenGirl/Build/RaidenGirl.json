@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "RaidenGirl.data.unityweb",
+"asmCodeUrl": "RaidenGirl.asm.code.unityweb",
+"asmMemoryUrl": "RaidenGirl.asm.memory.unityweb",
+"asmFrameworkUrl": "RaidenGirl.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
